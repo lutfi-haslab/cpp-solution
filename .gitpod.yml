@@ -1,3 +1,4 @@
+
 tasks:
   - init: echo 'C++ Initialisation - Run g++  main.cpp -o main.out to build and ./main.out to run.' # runs during prebuild
     command: echo 'build main.cpp' && g++  main.cpp -o main.out
@@ -5,3 +6,7 @@ tasks:
 ports:
   - port: 3000
     onOpen: open-preview
+
+vscode:
+  extensions:
+    - formulahendry.code-runner
