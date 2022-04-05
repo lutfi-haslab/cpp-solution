@@ -1,6 +1,6 @@
 tasks:
-  - init: echo 'C++ Initialisation - Run g++  hello.cpp -o main.out to build and ./main.out to run.' # runs during prebuild
-    command: echo 'build main.cpp' && g++  hello.cpp -o main.out
+  - init: echo 'C++ Initialisation - Run g++  main.cpp -o main.out to build and ./main.out to run.' # runs during prebuild
+    command: echo 'build main.cpp' && g++  main.cpp -o main.out
 
 ports:
   - port: 3000
