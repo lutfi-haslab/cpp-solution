@@ -3,9 +3,9 @@
 # cpp-gitpod-template
 For beginners to initialise a C++ GitPod Repo :D
 
-To run, press the run button in the main.cpp or follow the instructions below.
+To run, press the run button (shown below) in the main.cpp or follow the instructions below.
 
-To run these commands right click here:[![Screenshot-2022-04-05-11-52-50.png](https://i.postimg.cc/gknN39gL/Screenshot-2022-04-05-11-52-50.png)](https://postimg.cc/PPnWk7sd) and press 'Open in intergrated Terminal'.
+To run these commands right click in the explorer:[![Screenshot-2022-04-05-11-52-50.png](https://i.postimg.cc/gknN39gL/Screenshot-2022-04-05-11-52-50.png)](https://postimg.cc/PPnWk7sd) and press 'Open in intergrated Terminal'.
 
 To build:
 ```bash
