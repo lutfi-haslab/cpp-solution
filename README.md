@@ -9,9 +9,9 @@ To run these commands right click in the explorer:[![Screenshot-2022-04-05-11-52
 
 To build:
 ```bash
-g++ main.cpp -o main.out
+g++ main.cpp -o main
 ```
 To run:
 ```bash
-./main.out
+./main
 ```
