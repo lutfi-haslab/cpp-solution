@@ -13,3 +13,25 @@ To run:
 ```bash
 ./main
 ```
+
+## Setup Crow
+
+Install
+```bash
+sudo apt-get update
+sudo apt-get install -y libboost-all-dev libssl-dev zlib1g-dev
+sudo apt-get install -y libasio-dev
+```
+
+```bash
+cd build
+cmake ..
+cmake
+make
+```
+
+### run server
+```bash
+cd build
+./crow_example
+```
